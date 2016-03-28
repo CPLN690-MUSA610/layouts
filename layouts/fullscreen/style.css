@@ -29,7 +29,7 @@ body {
   top: 60px;
   background-color: #fff;
   padding: 20px;
-  oveflow: hidden;
+  overflow: hidden;
   overflow-y: auto;
 }
 
